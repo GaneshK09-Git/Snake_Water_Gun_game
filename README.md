@@ -16,9 +16,9 @@ How It Works:
 Rules Mapping:
 | Symbol | Choice  | Code Value |
 |--------|---------|------------|
-| `s`    | Snake   | 1          |
-| `w`    | Water   | -1         |
-| `g`    | Gun     | 0          |
+| `s/S`    | Snake   | 1          |
+| `w/W`    | Water   | -1         |
+| `g/G`    | Gun     | 0          |
 
 ---
 
