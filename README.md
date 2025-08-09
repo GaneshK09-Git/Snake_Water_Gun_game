@@ -4,7 +4,7 @@ A simple **Python command-line game** where you play Snake, Water, Gun against t
 This is similar to Rock, Paper, Scissors, but with a twist.
 
 How It Works:
-- You choose **Snake (s)**, **Water (w)**, or **Gun (g)**.
+- You choose **Snake (S/s)**, **Water (W/w)**, or **Gun (G/g)**.
 - The computer makes a random choice.
 - The winner is decided based on the rules:
 - Snake 🐍 drinks Water 💧 → **Snake wins**  
@@ -35,6 +35,7 @@ python game.py
 
 5. Enter your choice (s, w, or g) when prompted.
 
+---
 
 Example GamePlay:
 
