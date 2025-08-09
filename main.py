@@ -8,7 +8,7 @@ import random #importing random module for the computer to select a random numbe
 
 '''
 computer = random.choice([-1, 0, 1])
-youstr = input("Enter your choice: ")
+youstr = input("Enter your choice: ").lower()
 youDict= {"s": 1, "w": -1, "g": 0}
 reverseDict= {1: "Snake", -1: "Water", 0: "Gun"}
 
